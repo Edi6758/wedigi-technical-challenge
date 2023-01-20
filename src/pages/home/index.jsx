@@ -4,8 +4,7 @@ import Shelf from '../../components/Shelf'
 const Home = () => {
     return (
         <div>
-            <h1>Home</h1>
-            <Shelf/>
+            <Shelf />
         </div>
     )
 }
